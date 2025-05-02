@@ -153,3 +153,4 @@ touch countdown.sh
 chmod +x
 chmod +x countdown.sh
 echo $*
+./countdown.sh
