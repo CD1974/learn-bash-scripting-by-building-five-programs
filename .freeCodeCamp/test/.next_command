@@ -140,3 +140,4 @@ QUESTION1="What's your name?"
 $NAME
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
