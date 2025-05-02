@@ -143,3 +143,4 @@ $NAME
 ./questionnaire.sh
 --help
 echo --help
+man echo
