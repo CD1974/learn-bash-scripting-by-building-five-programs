@@ -141,3 +141,5 @@ $NAME
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+--help
+echo --help
