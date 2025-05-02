@@ -138,3 +138,4 @@ ls --color=auto -l
 QUESTION1="What's your name?"
 ./questionnaire.sh
 $NAME
+./questionnaire.sh
