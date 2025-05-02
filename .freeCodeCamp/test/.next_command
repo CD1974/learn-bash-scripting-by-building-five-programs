@@ -129,3 +129,4 @@ bash questionnaire.sh
 wich bash
 which bash
 ./questionnaire.sh
+ls --color=auto -l
