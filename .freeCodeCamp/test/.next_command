@@ -267,3 +267,4 @@ arg1
 ./countdown.sh 5
 help if
 help
+help [[ if ]]
