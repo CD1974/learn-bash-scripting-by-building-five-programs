@@ -509,3 +509,5 @@ echo $(( I + 4 ))
 echo $I
 I=11
 J=$(( I - 6 ))
+echo J
+echo $J
