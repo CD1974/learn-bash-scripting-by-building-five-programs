@@ -391,3 +391,5 @@ help while
 touch bingo.sh
 chmod +x
 chmod +x bingo.sh
+./BINGO.SH
+./bingo.sh
