@@ -257,3 +257,5 @@ help
 cls
 ls --color=auto
 man if
+help command
+help if
