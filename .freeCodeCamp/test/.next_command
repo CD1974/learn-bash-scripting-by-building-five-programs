@@ -561,3 +561,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch fortune.sh
 cgmod +x fortune.sh
 chmod +x fortune.sh
+./fortune.sh
