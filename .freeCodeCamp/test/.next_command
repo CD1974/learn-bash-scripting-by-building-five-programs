@@ -559,3 +559,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+cgmod +x fortune.sh
+chmod +x fortune.sh
