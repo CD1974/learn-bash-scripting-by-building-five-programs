@@ -252,3 +252,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh arg1 arg2 arg3
 echo $1
 ./countdown.sh arg1 arg2 arg3
+__vsc_prompt_cmd_original
+help
