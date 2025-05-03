@@ -602,3 +602,4 @@ chmod +x five.sh
 cls
 clear
 ./five.sh
+help
