@@ -314,3 +314,11 @@ echo $?
 [[ 4 -ge 5 ]]
 echo $?
 [[ 4 -ge 5 ]]
+help
+help if
+help command
+help [[ expression ]]
+help if COMMANDS
+help man
+man test
+[[ 10 -ne 5 ]]
