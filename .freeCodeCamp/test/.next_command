@@ -337,3 +337,4 @@ __vsc_prompt_cmd_original
 [[ -x bad_file.txt ]]
 __vsc_prompt_cmd_original
 [[ -x countdown.sh ]]
+help [[
