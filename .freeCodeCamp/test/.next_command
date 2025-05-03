@@ -393,3 +393,4 @@ chmod +x
 chmod +x bingo.sh
 ./BINGO.SH
 ./bingo.sh
+printenv
