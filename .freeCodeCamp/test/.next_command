@@ -259,3 +259,5 @@ ls --color=auto
 man if
 help command
 help if
+arg1
+./countdown.sh arg1
